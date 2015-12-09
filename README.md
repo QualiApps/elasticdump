@@ -8,7 +8,6 @@ Usage
 elastic-dump is the entry point and expects parameters to be passed as Docker command.
 
 ### Import
-
 To import index (change ES_HOST):
 
 ```bash
